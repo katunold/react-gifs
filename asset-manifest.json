@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gifs/static/css/main.f9615a7c.chunk.css",
+    "main.js": "/react-gifs/static/js/main.0e3017d7.chunk.js",
+    "main.js.map": "/react-gifs/static/js/main.0e3017d7.chunk.js.map",
+    "runtime~main.js": "/react-gifs/static/js/runtime~main.89e835c0.js",
+    "runtime~main.js.map": "/react-gifs/static/js/runtime~main.89e835c0.js.map",
+    "static/js/2.b2ca986f.chunk.js": "/react-gifs/static/js/2.b2ca986f.chunk.js",
+    "static/js/2.b2ca986f.chunk.js.map": "/react-gifs/static/js/2.b2ca986f.chunk.js.map",
+    "index.html": "/react-gifs/index.html",
+    "precache-manifest.ff738a7cca285831ea9e95a8ace4c742.js": "/react-gifs/precache-manifest.ff738a7cca285831ea9e95a8ace4c742.js",
+    "service-worker.js": "/react-gifs/service-worker.js",
+    "static/css/main.f9615a7c.chunk.css.map": "/react-gifs/static/css/main.f9615a7c.chunk.css.map"
+  }
+}
